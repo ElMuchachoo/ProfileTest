@@ -1,9 +1,9 @@
 <h1 align="center">Fala, eu sou o Rosival Donizeti 👋</h1>
 <h3 align="center">
-Desenvolvedor em formação | Professor de Programação |
+| Desenvolvedor em formação | Professor de Programação |
 </h3>
 <h3 align="center">
-  Focado em Lógica de Programação | Modelagem e Análise de Dados |
+| Focado em Lógica de Programação | Modelagem e Análise de Dados |
 </h3>
 
 <p align="center">
