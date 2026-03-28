@@ -25,7 +25,7 @@
 - 🧠 Forte base em **Física, Matemática e Modelagem Computacional**
 - 📊 Experiência com **Python, R e Origin** para análise e visualização de dados
 - 📝 Utilizo **LaTeX** para documentação técnica e produção acadêmica
-- 🌐 Formação em complementar em **Web & Design**
+- 🌐 Formação complementar em **Web & Design**
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas, Matemática e Técnico em Informática**
 - 🎯 Foco em **evolução contínua como desenvolvedor**
 - 🤝 Experiência com **liderança, gestão e trabalho em equipe**
