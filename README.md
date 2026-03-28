@@ -1,37 +1,77 @@
-<h1 align="center">Fala, eu sou o [SEU NOME] 👋</h1>
-<h3 align="center">Desenvolvedor(a) [FRONT-END / BACK-END / FULL STACK] | Apaixonado(a) por tecnologia e por construir coisas que funcionam de verdade</h3>
+# 👋 Rosival Donizeti
 
-<p align="center">
-  <a href="https://github.com/SEUUSUARIO">
-    <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
-  </a>
-  <a href="https://github.com/SEUUSUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEUUSUARIO?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
+📍 Alfenas - MG  
+📧 rdonizete@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rosival-donizeti-16884b363/)
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Atualmente trabalhando com **[TECNOLOGIAS QUE VOCÊ USA]**
-- 📚 Estudando **[O QUE VOCÊ ESTÁ APRENDENDO AGORA]**
-- 🎯 Foco em **[SUA ÁREA / SEU OBJETIVO]**
-- 🧠 Curto transformar ideias em **projetos práticos**
-- 🤝 Aberto(a) para **freelas, networking e oportunidades**
-- 📫 Contato: **seuemail@exemplo.com**
+Profissional com experiência em atendimento, gestão e tecnologia, atualmente em transição para a área de TI.
 
-## 🛠️ Tecnologias e ferramentas
+Tenho conhecimento em manutenção de computadores, desenvolvimento web e ferramentas computacionais. Busco evoluir constantemente na área de tecnologia, contribuindo com soluções práticas e eficientes.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+Me destaco pela dedicação, responsabilidade, facilidade de aprendizado e boa comunicação.
+
+---
+
+## 🎯 Objetivo
+
+Atuar na área de tecnologia (desenvolvimento, suporte ou sistemas), evoluindo profissionalmente e contribuindo com resultados.
+
+---
+
+## 🎓 Formação
+
+- 🎓 Licenciatura em Matemática (em andamento)  
+- 💻 Análise e Desenvolvimento de Sistemas (em andamento)  
+- 🛠️ Técnico em Informática (em andamento)  
+- 🎓 Licenciatura em Física (incompleto - 8º período)
+
+---
+
+## 💼 Experiência Profissional
+
+**Gerente / Sócio**  
+*Cacau Show (2021 - 2022)*  
+- Gestão de equipe e operação  
+- Controle financeiro  
+- Atendimento ao cliente  
+
+**Caixa**  
+*Bacana Pizzaria (2019 - 2021)*  
+
+**Professor da Educação Básica**  
+*Secretaria de Educação de MG (2014 - 2016)*  
+
+**Vendas / Estoque / Atendimento**  
+*Drogaria Santa Maria (2009 - 2012)*  
+
+**Auxiliar Administrativo**  
+*Fabrício de Souza ME (2008 - 2009)*  
+
+**Auxiliar de Contabilidade**  
+*Escritório de Contabilidade Brasil (2004 - 2008)*  
+
+---
+
+## 🛠️ Habilidades
+
+- 💻 Sistemas: Linux e Windows  
+- 🧰 Pacote Office e Google Workspace  
+- 🌐 HTML básico  
+- 🎨 Corel Draw e Photoshop  
+- 🖥️ Hardware e redes  
+
+---
+
+## 🌎 Idiomas
+
+- Inglês intermediário (TOEFL ITP: 450)
+
+---
+
+## 📄 Currículo completo
+
+👉 [Baixar PDF](./curriculo.pdf)
