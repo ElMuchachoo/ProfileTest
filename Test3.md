@@ -1,6 +1,9 @@
 <h1 align="center">Fala, eu sou o Rosival Donizeti 👋</h1>
 <h3 align="center">
-Desenvolvedor em formação | Professor de Programação | Especialista em Lógica, Modelagem e Análise de Dados
+Desenvolvedor em formação | Professor de Programação |
+</h3>
+<h3 align="center">
+  Focado em Lógica de Programação | Modelagem e Análise de Dados |
 </h3>
 
 <p align="center">
@@ -22,7 +25,7 @@ Desenvolvedor em formação | Professor de Programação | Especialista em Lógi
 - 🧠 Forte base em **Física, Matemática e Modelagem Computacional**
 - 📊 Experiência com **Python, R e Origin** para análise e visualização de dados
 - 📝 Utilizo **LaTeX** para documentação técnica e produção acadêmica
-- 🌐 Formação em **Web & Design**
+- 🌐 Formação em complementar em **Web & Design**
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas, Matemática e Técnico em Informática**
 - 🎯 Foco em **evolução contínua como desenvolvedor**
 - 🤝 Experiência com **liderança, gestão e trabalho em equipe**
