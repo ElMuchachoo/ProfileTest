@@ -1,77 +1,38 @@
-# 👋 Rosival Donizeti
+<h1 align="center">Fala, eu sou o Rosival Donizeti 👋</h1>
+<h3 align="center">Estudante de TI | Em transição para desenvolvimento | Apaixonado por tecnologia e por resolver problemas na prática</h3>
 
-📍 Alfenas - MG  
-📧 rdonizete@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rosival-donizeti-16884b363/)
+<p align="center">
+  <a href="https://github.com/ElMuchachoo">
+    <img src="https://komarev.com/ghpvc/?username=ElMuchachoo&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
+  </a>
+  <a href="https://github.com/ElMuchachoo?tab=followers">
+    <img src="https://img.shields.io/github/followers/ElMuchachoo?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Profissional com experiência em atendimento, gestão e tecnologia, atualmente em transição para a área de TI.
-
-Tenho conhecimento em manutenção de computadores, desenvolvimento web e ferramentas computacionais. Busco evoluir constantemente na área de tecnologia, contribuindo com soluções práticas e eficientes.
-
-Me destaco pela dedicação, responsabilidade, facilidade de aprendizado e boa comunicação.
-
----
-
-## 🎯 Objetivo
-
-Atuar na área de tecnologia (desenvolvimento, suporte ou sistemas), evoluindo profissionalmente e contribuindo com resultados.
+- 💻 Conhecimentos em **hardware, redes e desenvolvimento web básico**
+- 📚 Estudando **ADS, Matemática e Técnico em Informática**
+- 🎯 Foco em **iniciar carreira em desenvolvimento ou suporte**
+- 🧠 Gosto de transformar ideias em **projetos práticos**
+- 🤝 Experiência com **gestão, atendimento e trabalho em equipe**
+- 📫 Contato: **rdonizete@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/rosival-donizeti-16884b363/
 
 ---
 
-## 🎓 Formação
+## 🛠️ Tecnologias e ferramentas
 
-- 🎓 Licenciatura em Matemática (em andamento)  
-- 💻 Análise e Desenvolvimento de Sistemas (em andamento)  
-- 🛠️ Técnico em Informática (em andamento)  
-- 🎓 Licenciatura em Física (incompleto - 8º período)
-
----
-
-## 💼 Experiência Profissional
-
-**Gerente / Sócio**  
-*Cacau Show (2021 - 2022)*  
-- Gestão de equipe e operação  
-- Controle financeiro  
-- Atendimento ao cliente  
-
-**Caixa**  
-*Bacana Pizzaria (2019 - 2021)*  
-
-**Professor da Educação Básica**  
-*Secretaria de Educação de MG (2014 - 2016)*  
-
-**Vendas / Estoque / Atendimento**  
-*Drogaria Santa Maria (2009 - 2012)*  
-
-**Auxiliar Administrativo**  
-*Fabrício de Souza ME (2008 - 2009)*  
-
-**Auxiliar de Contabilidade**  
-*Escritório de Contabilidade Brasil (2004 - 2008)*  
-
----
-
-## 🛠️ Habilidades
-
-- 💻 Sistemas: Linux e Windows  
-- 🧰 Pacote Office e Google Workspace  
-- 🌐 HTML básico  
-- 🎨 Corel Draw e Photoshop  
-- 🖥️ Hardware e redes  
-
----
-
-## 🌎 Idiomas
-
-- Inglês intermediário (TOEFL ITP: 450)
-
----
-
-## 📄 Currículo completo
-
-👉 [Baixar PDF](./curriculo.pdf)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office-2B579A?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge" />
+</p>
