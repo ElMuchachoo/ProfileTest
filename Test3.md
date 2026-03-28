@@ -36,7 +36,9 @@ Desenvolvedor em formação | Professor de Programação | Especialista em Lógi
 - Desenvolvimento de Software  
 - Análise de Dados  
 - Modelagem Computacional  
-- Educação em Tecnologia  
+- Educação em Tecnologia
+- Inteligência Artificial
+- Machine Learning
 
 ---
 
