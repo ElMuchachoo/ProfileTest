@@ -22,6 +22,7 @@ Desenvolvedor em formação | Professor de Programação | Especialista em Lógi
 - 🧠 Forte base em **Física, Matemática e Modelagem Computacional**
 - 📊 Experiência com **Python, R e Origin** para análise e visualização de dados
 - 📝 Utilizo **LaTeX** para documentação técnica e produção acadêmica
+- 🌐 Formação em **Web & Design**
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas, Matemática e Técnico em Informática**
 - 🎯 Foco em **evolução contínua como desenvolvedor**
 - 🤝 Experiência com **liderança, gestão e trabalho em equipe**
